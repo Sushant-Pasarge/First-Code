@@ -1,6 +1,6 @@
 # First-Code
 My first git repository 
 <br>
-Author -Sushant
+Author -Sushant Pasarge
 <br>
 Hii
